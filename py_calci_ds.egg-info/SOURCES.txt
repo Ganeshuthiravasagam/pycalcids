@@ -1,0 +1,6 @@
+setup.py
+py_calci_ds.egg-info/PKG-INFO
+py_calci_ds.egg-info/SOURCES.txt
+py_calci_ds.egg-info/dependency_links.txt
+py_calci_ds.egg-info/top_level.txt
+pycalcids/__init__.py
