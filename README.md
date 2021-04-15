@@ -12,10 +12,10 @@ This a simple python package which you 📲 download from the official python pa
 
 - Step 3: 
              
-        📎 py.add(4, 3) -  prints 7 
-        📎 py.sub(3, 1) -  prints 2
-        📎 py.multiply(3, 6) - prints 18 
-        📎 py.divide(4, 5) - prints 0.8 
+        📌 py.add(4, 3) -  prints 7 
+        📌 py.sub(3, 1) -  prints 2
+        📌 py.multiply(3, 6) - prints 18 
+        📌 py.divide(4, 5) - prints 0.8 
              
              
 ## How you can build your package?
