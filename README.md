@@ -1,4 +1,4 @@
-# Python Portfolio Package - py-calci-ds 🤩
+# Python Package - py-calci-ds 🤩
 
 ![image](https://github.com/Ganeshuthiravasagam/pycalcids/blob/main/pycalcids%201.jpeg)
 
